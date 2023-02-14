@@ -1085,6 +1085,7 @@ a:hover {
 
 .testimonial-box .author-test img {
   margin: 0 auto;
+  /* image-resolution: 150px; */
 }
 
 .testimonial-box .author {

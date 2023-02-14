@@ -259,7 +259,7 @@ function sentmail() {
     subject: document.getElementById("subject").value,
   };
   emailjs
-    .send("service_1u716jc", "template_iuz2eqa", params)
+    .send("service_kn5tnjn", "template_lyg501q", params)
     .then(function (res) {
       alert("success!");
       (document.getElementById("name").value = ""),
